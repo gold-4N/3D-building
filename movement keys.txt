@@ -1,0 +1,6 @@
+up --> q
+down ---> e
+laft ---> a
+right ---> d
+front ---> w
+back ----> s
